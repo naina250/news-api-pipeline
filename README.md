@@ -10,3 +10,8 @@ Built my first ETL pipeline using Python, in which I performed
 - requests
 - csv
 - NewsAPI
+
+## How to Run
+1. Get free API key from https://newsapi.org
+2. Install requests: pip install requests
+3. Run: python api_2.py
