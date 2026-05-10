@@ -1,4 +1,4 @@
-# News APT Data Pipeline
+# News API Data Pipeline
 
 Built my first ETL pipeline using Python, in which I performed
 - Extracted live news data from NewsAPI
